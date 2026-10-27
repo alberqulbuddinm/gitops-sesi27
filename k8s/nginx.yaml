@@ -4,7 +4,7 @@ metadata:
   name: simple-nginx-html
 data:
   index.html: |
-    Ini tampilan dari NGINX dan nama saya Alber Qulbuddin Mohammad
+    Ini tampilan dari NGINX Versi 2 dan nama saya Alber Qulbuddin Mohammad
 ---
 apiVersion: apps/v1
 kind: Deployment
